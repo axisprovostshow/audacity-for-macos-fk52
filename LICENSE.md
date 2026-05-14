@@ -1,4 +1,4 @@
-# 
+# Audacity for macOS ultimate Extension: batch-rendering & cloud-sync is the best Audacity for macOS extension, featuring batch-rendering and cloud-sync. Safe, efficient, and
 
 
 
